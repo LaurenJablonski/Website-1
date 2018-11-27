@@ -32,12 +32,12 @@ h1 {letter-spacing: 6px}
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
   <div class="w3-half">
     <img src="http://shuttersandsunflowers.com/wp-content/uploads/2015/03/Wills20Building20Bristol20University.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/falls2.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="images/colstanhall.jpg" style="width:100%">
+    <img src="images/falls2.jpg" style="width:100%">
+    <img src="images/paris.jpg" style="width:100%">
+    <img src="images/nature.jpg" style="width:100%">
+    <img src="images/mist.jpg" style="width:100%">
+    <img src="images/paris.jpg" style="width:100%">
   </div>
 
   <div class="w3-half">
