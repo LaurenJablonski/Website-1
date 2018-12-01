@@ -26,7 +26,10 @@ h1 {letter-spacing: 6px}
 
     </div>
   </div>
+  <a href="index.html"><button class="buildings.html" type="submit">Home</button></a>
+
 </header>
+
 
 <!-- Photo Grid -->
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
