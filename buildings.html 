@@ -27,6 +27,7 @@ h1 {letter-spacing: 6px}
     </div>
   </div>
   <a href="index.html"><button class="buildings.html" type="submit">Home</button></a>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </header>
 
@@ -35,6 +36,7 @@ h1 {letter-spacing: 6px}
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
   <div class="w3-half">
     <img src="http://shuttersandsunflowers.com/wp-content/uploads/2015/03/Wills20Building20Bristol20University.jpg" style="width:100%">
+    <p><a href=""><img src="https://www.google.com/maps/place/Workshop+22/@51.4574971,-2.5979224,18z/data=!4m5!3m4!1s0x48718dd862c70825:0xf06562956a088f50!8m2!3d51.4574971!4d-2.5968281"></a></p>
     <img src="images/colstanhall.jpg" style="width:100%">
     <img src="images/falls2.jpg" style="width:100%">
     <img src="images/paris.jpg" style="width:100%">
