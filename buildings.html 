@@ -35,16 +35,18 @@ h1 {letter-spacing: 6px}
 <!-- Photo Grid -->
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
   <div class="w3-half">
+    <p> <b> Wills Memorial Building </b> </p>
     <img src="http://shuttersandsunflowers.com/wp-content/uploads/2015/03/Wills20Building20Bristol20University.jpg" style="width:100%">
-    <p><a href=""><img src="https://www.google.com/maps/place/Workshop+22/@51.4574971,-2.5979224,18z/data=!4m5!3m4!1s0x48718dd862c70825:0xf06562956a088f50!8m2!3d51.4574971!4d-2.5968281"></a></p>
+    <p><b> Colstan Hall </b></a></p>
     <img src="images/colstanhall.jpg" style="width:100%">
+    <p> <b> Hamilton House </b> </p>
     <img src="images/hamiltonhouse.jpg" style="width:100%">
 
   </div>
   <div class="w3-half">
+    <p> <h1> <b> Wills Memorial Building </b> </h1> </p>
     <p>
-    <b>What is it:</b>
-    -	Wills Memorial Building. Named after the University’s first Chancellor, Henry Overton Wills III, and completed in 1925. It houses both the School of Law and the Department of Earth Sciences.
+  Named after the University’s first Chancellor, Henry Overton Wills III, and completed in 1925. It houses both the School of Law and the Department of Earth Sciences.
 </p>
 <p>
     <b> History:</b> <ul>
@@ -67,6 +69,48 @@ h1 {letter-spacing: 6px}
     <li>	Without the money donated by Wills, it is unlikely that the University would have been established </li>
   </p>
 </ul>
+<p> <h1> <b> Colstan Hall </b></h1> </p>
+<p>
+<b>What is it:</b> <ul>
+</p>
+
+<li>	A concert hall and Grade II listed building </li>
+<li> Named after philanthropist, merchant, slave trader and MP, Edward Colston </li>
+</ul>
+<b> History: </b><ul>
+
+<li> In 17th century, a sugar house was established on the location of Colston Hall by the merchant venturer, Edward Colston to refine sugar that was brought in from the Caribbean to Bristol Harbour. Colston Boys’ School was later established in this building to educate the poor. </li>
+<li> Hall first opened as a concert venue in 1867, became a popular place for classical music and theatre </li>
+<li> Late 1960s: developed into one of the most important rock music venues in Britain </li>
+</ul>
+<b> Controversy:</b> <ul>
+<li> Colston was one of the most powerful slave traders in Britain: 85,000 Africans were kidnapped and enslaved while he was running the Royal Africa Company </li>
+</ul>
+<b> Outcome: </b> <ul>
+<li> Colston Hall is in the process of being renamed. The venue was built 146 years after Edward Colston’s death and he was not a benefactor to the hall, nor is there any material connection with him or his wealth. </li>
+<li>	A statement from the venue said: “The name Colston, and its associations with the slave trade, does not reflect our values as a progressive, forward-thinking and open arts organisation” </li>
+</ul>
+<p> <h1> <b> Hamilton House </b></h1></p>
+<p>
+
+	Hamilton House is a building in Stokes Croft which houses the popular ‘Canteen’. Social Enterprise Coexist has managed the rooms above the Canteen since 2008, renting cheap spaces to artist and community groups
+</p>
+<p>
+<b>History:</b> <ul>
+  <li> Connolly and Callaghan (C&C) take over ownership of the three buildings which make up the 1970s office block, Hamilton House, in 2004 </li>
+ <li> In 2008, C&C invited a group of friends to create a community centre in Hamilton House. This group went on to become Coexist which helped numerous creative businesses and social enterprises spring up in the building. 550,000 people come through its doors annually.</li>
+</ul>
+</p>
+<p>
+<b> Controversy: </b> <ul>
+<li> Hamilton House has been at the centre of an ongoing row about the future of the whole area as locals are worried it is going to be turned into flats, robbing Stokes Croft of much of its creative community. </li>
+<li>	Months and months of negotiations between Coexist and C&C resulted in a notice of planned management takeover given to Coexist in November 2018, followed by a government planning inspector turning town C&C’s plans to turn part of Hamilton House into flats </li>
+</ul>
+</p>
+<p>
+<b>Outcome: </b> <ul>
+<li> Future is uncertain. C&C say the permitted development would have allowed “the minimum footprint of Hamilton House to be developed in order to generate the funds needed to renovate in order to generate the funds needed to renovate the community and office spaces” </li>
+
   </div>
 
 
