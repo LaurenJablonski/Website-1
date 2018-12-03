@@ -38,22 +38,39 @@ h1 {letter-spacing: 6px}
     <img src="http://shuttersandsunflowers.com/wp-content/uploads/2015/03/Wills20Building20Bristol20University.jpg" style="width:100%">
     <p><a href=""><img src="https://www.google.com/maps/place/Workshop+22/@51.4574971,-2.5979224,18z/data=!4m5!3m4!1s0x48718dd862c70825:0xf06562956a088f50!8m2!3d51.4574971!4d-2.5968281"></a></p>
     <img src="images/colstanhall.jpg" style="width:100%">
-    <img src="images/falls2.jpg" style="width:100%">
-    <img src="images/paris.jpg" style="width:100%">
-    <img src="images/nature.jpg" style="width:100%">
-    <img src="images/mist.jpg" style="width:100%">
-    <img src="images/paris.jpg" style="width:100%">
+    <img src="images/hamiltonhouse.jpg" style="width:100%">
+
+  </div>
+  <div class="w3-half">
+    <p>
+    <b>What is it:</b>
+    -	Wills Memorial Building. Named after the University’s first Chancellor, Henry Overton Wills III, and completed in 1925. It houses both the School of Law and the Department of Earth Sciences.
+</p>
+<p>
+    <b> History:</b> <ul>
+  <li>	Henry Overton Wills ran WD & HO Wills between 1846 and 1880, before merging with others in 1901 to form Imperial Tobacco, the 4th largest cigarette company in the world. </li>
+  <li>	In 1908, Wills promised £100,000 (around £10.5 million in today’s money) to fund a university for the city and the following year, the university was granted a royal charter. </li>
+  <li>	Following his death, the building at the top of Park Street was completed and opened in his honour. </li>
+</ul>
+  </p>
+  <p>
+
+    <b> Controversy:</b> <ul>
+  <li> Petitioners say the money was ‘slave-profited money’ and called for the building to be renamed.</li>
+  <li> Some believe that Wills may have continued to import slave-grown tobacco from American plantations up until 1865 – more than 30 years after slavery was abolished. </li>
+  <li>	Imperial Tobacco say there is no evidence of the company’s involvement in slavery </li>
+</ul>
+</p>
+<p>
+<b>    Outcome:</b> <ul>
+    <li>	The University of Bristol announced that they would not rename Wills Memorial Building as it is important to be “open and reflective” about the city’s history and its connection to the slave trade.</li>
+    <li>	Without the money donated by Wills, it is unlikely that the University would have been established </li>
+  </p>
+</ul>
   </div>
 
-  <div class="w3-half">
-    <img src="/w3images/underwater.jpg" style="width:100%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
-  </div>
-</div>
+
+
 
 <!-- End Page Content -->
 </div>
